@@ -94,8 +94,8 @@ body {
   box-shadow: 0 2px 12px rgba(0,255,255,0.12);
   letter-spacing: 1px;
   border: 2px solid aqua;
-  display: flex;
-  flex-direction: column;
+  
+ 
   
 }
 
@@ -137,6 +137,7 @@ body {
 .reset-score-button {
   margin-top: 20px;
 }
+
 
 
 
