@@ -78,8 +78,7 @@ body {
   justify-content: center;
   transition: box-shadow 0.2s, transform 0.2s;
   box-shadow: 0 4px 16px rgba(0, 255, 255, 0.2);
-  margin-left: 160px;
-  margin-right: 150px;
+  
   }
   
 }
@@ -98,9 +97,7 @@ body {
   border: 2px solid aqua;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  margin-left: 160px;
-  margin-right: 150px;
+  
 }
 
 .score {
@@ -116,8 +113,7 @@ body {
   border: 2px solid #00ffff;
   text-align: center;
   letter-spacing: 1px;
-  margin-left: 160px;
-  margin-right: 150px;
+
   transition: background 0.3s, box-shadow 0.3s, color 0.3s;
 
 }
@@ -142,4 +138,5 @@ body {
 .reset-score-button {
   margin-top: 20px;
 }
+
 
