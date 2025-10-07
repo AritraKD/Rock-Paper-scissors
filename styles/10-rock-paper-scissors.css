@@ -80,13 +80,6 @@ body {
   box-shadow: 0 4px 16px rgba(0, 255, 255, 0.2);
   margin-left: 160px;
   margin-right: 150px;
-  /* Responsive adjustments for smaller screens */
-  @media (max-width: 700px) {
-    margin-left: 10px;
-    margin-right: 10px;
-    width: 120px;
-    height: 120px;
-    padding: 8px;
   }
   
 }
@@ -149,3 +142,4 @@ body {
 .reset-score-button {
   margin-top: 20px;
 }
+
