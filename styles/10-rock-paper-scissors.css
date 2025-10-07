@@ -30,7 +30,7 @@ body {
   height: 150px;
   text-align: center;
 
-  align-items: center;
+  
   filter: drop-shadow(0 0 5px aqua);
   transition: transform 0.2s;
   border-radius: 20px;
@@ -73,7 +73,7 @@ body {
   cursor: pointer;
   border-color: aqua;
   padding: 20px;
-  align-items: center;
+ 
   
   transition: box-shadow 0.2s, transform 0.2s;
   box-shadow: 0 4px 16px rgba(0, 255, 255, 0.2);
@@ -137,6 +137,7 @@ body {
 .reset-score-button {
   margin-top: 20px;
 }
+
 
 
 
